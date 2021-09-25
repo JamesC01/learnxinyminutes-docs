@@ -1197,4 +1197,5 @@ Further Reading:
 
 * An up-to-date language reference can be found at [CPP Reference](http://cppreference.com/w/cpp).
 * Additional resources may be found at [CPlusPlus](http://cplusplus.com).
+* A text-based tutorial covering the language [learncpp.com](https://www.learncpp.com/)
 * A tutorial covering basics of language and setting up coding environment is available at [TheChernoProject - C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb).
